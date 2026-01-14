@@ -6,12 +6,10 @@ This README file provides an overview of the "Automobile Sales Statistics Dashbo
 
 This project focuses on analyzing historical automobile sales data to understand the impact of recession periods on sales performance. It is divided into two main parts:
 
-1. 
-**Data Visualization & Analysis**: Using Python libraries to identify trends and patterns in automobile sales during various recessionary and non-recessionary periods.
+1. **Data Visualization & Analysis**: Using Python libraries to identify trends and patterns in automobile sales during various recessionary and non-recessionary periods.
 
 
-2. 
-**Interactive Dashboard Development**: Building a web-based dashboard using Dash and Plotly to allow users to interactively explore the data through different visualizations.
+2. **Interactive Dashboard Development**: Building a web-based dashboard using Dash and Plotly to allow users to interactively explore the data through different visualizations.
 
 
 
@@ -46,20 +44,16 @@ The dataset contains monthly automobile sales records and economic indicators, i
 
 ### Part 1: Analysis Tasks
 
-* 
-**Line Charts**: To show annual fluctuations in average sales.
+* **Line Charts**: To show annual fluctuations in average sales.
 
 
-* 
-**Bar Charts**: To compare average vehicles sold by type during recessions.
+* **Bar Charts**: To compare average vehicles sold by type during recessions.
 
 
-* 
-**Scatter Plots**: To observe the relationship between GDP and sales.
+* **Scatter Plots**: To observe the relationship between GDP and sales.
 
 
-* 
-**Pie Charts**: To visualize total advertisement expenditure by vehicle type.
+* **Pie Charts**: To visualize total advertisement expenditure by vehicle type.
 
 
 
@@ -67,8 +61,7 @@ The dataset contains monthly automobile sales records and economic indicators, i
 
 The dashboard includes the following interactive elements:
 
-* 
-**Dropdown Menus**: For selecting the type of statistics (Yearly or Recession) and the specific year.
+* **Dropdown Menus**: For selecting the type of statistics (Yearly or Recession) and the specific year.
 
 
 * **Dynamic Graphs**:
@@ -95,12 +88,10 @@ pip install pandas numpy matplotlib seaborn folium dash plotly
 
 ## How to Run
 
-1. 
-**Analysis**: Open the Jupyter Notebook (`DV0101EN-Final-Assign-Part1-v1.jupyterlite.ipynb`) to view the initial data analysis and static plots.
+1. **Analysis**: Open the Jupyter Notebook (`DV0101EN-Final-Assign-Part1-v1.jupyterlite.ipynb`) to view the initial data analysis and static plots.
 
 
-2. 
-**Dashboard**: Run the Python script to launch the interactive dashboard:
+2. **Dashboard**: Run the Python script to launch the interactive dashboard:
 
 
 ```bash
